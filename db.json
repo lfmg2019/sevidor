@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "simon"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "username": "Simon",
+      "id": 4
+    },
+    {
+      "username": "eli",
+      "id": 5
+    }
+  ],
+  "tareas": [
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 1
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "eli",
+      "id": 2
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 3
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 4
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 5
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 6
+    },
+    {
+      "text": "Simon dice hola",
+      "user": "Simon",
+      "id": 7
+    }
+  ]
+}
