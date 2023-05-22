@@ -1,1 +1,3 @@
 # sevidor
+Depandecias 
+"json-server":
